@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+    <Placemark>
+        <Point>
+            <coordinates>121.898,30.9081,0</coordinates>
+        </Point>
+        <description>Attached to the ground. Intelligently places itself
+            at the height of the underlying terrain.
+        </description>
+        <name>Simple placemark</name>
+    </Placemark>
+</kml>
